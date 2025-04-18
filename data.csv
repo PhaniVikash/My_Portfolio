@@ -1,0 +1,16 @@
+title;description;url;image
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/PhaniVikash/TodoApp.git;1.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/PhaniVikash/Portfolio.git;2.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/PhaniVikash/PDF-Templates.git;3.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/PhaniVikash/Pdf_Invoice_Generator.git;4.png
+Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://github.com/PhaniVikash/News_email_API.git;5.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/PhaniVikash/weather_data_API.git;6.png
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/PhaniVikash/Webcam_motion_detector.git;11.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/PhaniVikash/Weather_Forecast_App.git;16.png
+Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://github.com/PhaniVikash/Student_Management_System.git;17.png
+
+
+
+
+
+

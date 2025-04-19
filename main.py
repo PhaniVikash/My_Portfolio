@@ -12,6 +12,7 @@ with col2:
              "for any suggestions feel free to reach out to me.  phanivikash@gmail.com")
     st.info(content)
 
+
 # Code to add all the app data
 content2= 'Here are the list of programs that I have built ,  Thanks for visiting my page'
 st.info(content2)

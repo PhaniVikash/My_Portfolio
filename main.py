@@ -8,14 +8,20 @@ with col1:
     st.image('images/Vikky.jpeg',width=350)
 with col2:
     st.title("\t Kote Phani Vikash")
-    content=("\n \t Hi This Vikash , This is the website to display all my projects. "
-             "for any suggestions feel free to reach out to me.  phanivikash@gmail.com")
-    st.info(content)
+
+    certification = ('''Certification Details : Aws Certified Cloud Practitioner \n
+    Validation Number : S9F7F74DSJ14QSKB \n
+    Validate at : https://aws.amazon.com/verification \n
+    Issued on : Dec 06, 2023 \n
+    Expires on : Dec 06, 2026 \n''')
+
+    st.info(certification)
 
 
 # Code to add all the app data
-content2= 'Here are the list of programs that I have built ,  Thanks for visiting my page'
-st.info(content2)
+content=("\n \t Hi This Vikash , This is the website to display all my projects. "
+             "for any suggestions feel free to reach out to me.  phanivikash@gmail.com")
+st.info(content)
 col3,empty_col,col4=st.columns([1.5,0.8,1.5])
 df=pandas.read_csv('data.csv',sep=';')
 with col3 :

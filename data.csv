@@ -1,8 +1,8 @@
 title;description;url;image
-Age Calculator & Speed Calculator ;A desktop app built using PyQt6 to calculate  ;https://github.com/PhaniVikash/PyQt6_Apps.git;24.png
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/PhaniVikash/TodoApp.git;1.png
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/PhaniVikash/Portfolio.git;2.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/PhaniVikash/PDF-Templates.git;3.png
+Age Calculator & Speed Calculator ;A desktop app built using PyQt6 to calculate  ;https://github.com/PhaniVikash/PyQt6_Apps.git;24.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/PhaniVikash/Pdf_Invoice_Generator.git;4.png
 Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://github.com/PhaniVikash/News_email_API.git;5.png
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/PhaniVikash/weather_data_API.git;6.png

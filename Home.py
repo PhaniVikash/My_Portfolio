@@ -17,7 +17,6 @@ with col2:
 
     st.info(certification)
 
-
 # Code to add all the app data
 content=("\n \t Hi This Vikash , This is the website to display all my projects. "
              "for any suggestions feel free to reach out to me.  phanivikash@gmail.com")
@@ -37,4 +36,6 @@ with col4 :
         st.write(row['description'])
         st.image('images/'+row['image'])
         st.write(f"[Source Code]({row['url']})")
+
+st.info("My Git hub Link : https://github.com/PhaniVikash?tab=repositories")
 

@@ -1,4 +1,5 @@
 title;description;url;image
+Age Calculator & Speed Calculator ;A desktop app built using PyQt6 to calculate  ;https://github.com/PhaniVikash/PyQt6_Apps.git;24.png
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/PhaniVikash/TodoApp.git;1.png
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/PhaniVikash/Portfolio.git;2.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/PhaniVikash/PDF-Templates.git;3.png

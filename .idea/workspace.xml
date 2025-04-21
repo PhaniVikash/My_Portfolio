@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="884889dc-c3a6-4603-85ee-c89e7709812d" name="Changes" comment="one more app added">
+    <list default="true" id="884889dc-c3a6-4603-85ee-c89e7709812d" name="Changes" comment="Optimizing better">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/azvikash/Desktop/practice&quot;
   }
 }</component>
   <component name="SharedIndexes">
@@ -83,12 +84,107 @@
       <option name="project" value="LOCAL" />
       <updated>1745005517245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="web automation using selenium added">
+      <option name="closed" value="true" />
+      <created>1745045178776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745045178776</updated>
+    </task>
+    <task id="LOCAL-00004" summary="web automation using selenium added">
+      <option name="closed" value="true" />
+      <created>1745045242290</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745045242290</updated>
+    </task>
+    <task id="LOCAL-00005" summary="web automation using selenium added">
+      <option name="closed" value="true" />
+      <created>1745045283086</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745045283086</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modifying the columns">
+      <option name="closed" value="true" />
+      <created>1745045320057</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745045320057</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding Flask web app">
+      <option name="closed" value="true" />
+      <created>1745046710139</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745046710139</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding Age calculator nd Speed calculator">
+      <option name="closed" value="true" />
+      <created>1745047384426</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745047384426</updated>
+    </task>
+    <task id="LOCAL-00009" summary="adjustments">
+      <option name="closed" value="true" />
+      <created>1745047524035</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745047524035</updated>
+    </task>
+    <task id="LOCAL-00010" summary="adjustments">
+      <option name="closed" value="true" />
+      <created>1745047579592</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745047579592</updated>
+    </task>
+    <task id="LOCAL-00011" summary="adding certifications">
+      <option name="closed" value="true" />
+      <created>1745048365150</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745048365150</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Optimizing better">
+      <option name="closed" value="true" />
+      <created>1745048878057</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745048878057</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Optimizing better">
+      <option name="closed" value="true" />
+      <created>1745048989895</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1745048989895</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit after working on 10 apps" />
     <MESSAGE value="one more app added" />
-    <option name="LAST_COMMIT_MESSAGE" value="one more app added" />
+    <MESSAGE value="web automation using selenium added" />
+    <MESSAGE value="modifying the columns" />
+    <MESSAGE value="Adding Flask web app" />
+    <MESSAGE value="Adding Age calculator nd Speed calculator" />
+    <MESSAGE value="adjustments" />
+    <MESSAGE value="adding certifications" />
+    <MESSAGE value="Optimizing better" />
+    <option name="LAST_COMMIT_MESSAGE" value="Optimizing better" />
   </component>
 </project>

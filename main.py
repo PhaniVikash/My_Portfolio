@@ -1,7 +1,7 @@
 import pandas
 import streamlit as st
 
-# Front end code
+# Design web page ( Home )
 st.set_page_config(layout="wide")
 col1 , col2=st.columns(2)
 with col1:
@@ -9,18 +9,24 @@ with col1:
 with col2:
     st.title("\t Kote Phani Vikash")
 
-    certification = ('''Certification Details : Aws Certified Cloud Practitioner \n
-    Validation Number : S9F7F74DSJ14QSKB \n
-    Validate at : https://aws.amazon.com/verification \n
-    Issued on : Dec 06, 2023 \n
-    Expires on : Dec 06, 2026 \n''')
+    # Code to add all the app data
+    content = ("\n \t Hi This Vikash , This is the website to display all my projects. "
+               "for any suggestions feel free to reach out to me.  phanivikash@gmail.com")
+    st.info(content)
 
-    st.info(certification)
+    with open("phani_vikash_resume.pdf", "rb") as file:
+        resume_data = file.read()
 
-# Code to add all the app data
-content=("\n \t Hi This Vikash , This is the website to display all my projects. "
-             "for any suggestions feel free to reach out to me.  phanivikash@gmail.com")
-st.info(content)
+    # Add download button
+    st.download_button(
+        label="Download My Resume",
+        data=resume_data,
+        file_name="My_Resume.pdf",
+        mime="application/pdf"
+    )
+
+st.info("My Git hub Link : https://github.com/PhaniVikash?tab=repositories")
+
 col3,empty_col,col4=st.columns([1.5,0.8,1.5])
 df=pandas.read_csv('data.csv',sep=';')
 with col3 :
@@ -37,5 +43,5 @@ with col4 :
         st.image('images/'+row['image'])
         st.write(f"[Source Code]({row['url']})")
 
-st.info("My Git hub Link : https://github.com/PhaniVikash?tab=repositories")
+
 

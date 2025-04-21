@@ -44,4 +44,4 @@ with col4 :
         st.write(f"[Source Code]({row['url']})")
 
 
-
+st.info("My LinkedIN Profile Link : https://www.linkedin.com/in/phani-vikash-83554b224/")

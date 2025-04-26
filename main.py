@@ -10,7 +10,7 @@ with col2:
     st.title("\t Kote Phani Vikash")
 
     # Code to add all the app data
-    content = ("\n \t Hi, this is Vikash . This is my website to display all my projects. "
+    content = ("\n \t Hello, I'm Vikash. This website features all the projects I have worked on."
                "for any suggestions feel free to reach out to me.  phanivikash@gmail.com")
     st.info(content)
 

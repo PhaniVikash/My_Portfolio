@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="884889dc-c3a6-4603-85ee-c89e7709812d" name="Changes" comment="Optimizing better">
+    <list default="true" id="884889dc-c3a6-4603-85ee-c89e7709812d" name="Changes" comment="Adding LinkedIN">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +49,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/azvikash/Desktop/practice&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/azvikash/Desktop/Portfolio&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\azvikash\Desktop\Portfolio" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -172,7 +177,39 @@
       <option name="project" value="LOCAL" />
       <updated>1745048989895</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adding Resume">
+      <option name="closed" value="true" />
+      <created>1745253051974</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1745253051974</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adding Resume">
+      <option name="closed" value="true" />
+      <created>1745253284171</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1745253284171</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Adding Resume">
+      <option name="closed" value="true" />
+      <created>1745253397608</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1745253397608</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Adding LinkedIN">
+      <option name="closed" value="true" />
+      <created>1745253529980</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1745253529980</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +222,8 @@
     <MESSAGE value="adjustments" />
     <MESSAGE value="adding certifications" />
     <MESSAGE value="Optimizing better" />
-    <option name="LAST_COMMIT_MESSAGE" value="Optimizing better" />
+    <MESSAGE value="Adding Resume" />
+    <MESSAGE value="Adding LinkedIN" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding LinkedIN" />
   </component>
 </project>

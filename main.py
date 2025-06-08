@@ -14,7 +14,7 @@ with col2:
                "For any suggestions feel free to reach out to me.  phanivikash@gmail.com")
     st.info(content)
 
-    with open("phani_vikash_resume.pdf", "rb") as file:
+    with open("phani_vikash.pdf", "rb") as file:
         resume_data = file.read()
 
     # Add download button

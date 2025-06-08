@@ -21,7 +21,7 @@ with col2:
     st.download_button(
         label="Download My Resume",
         data=resume_data,
-        file_name="Phani_Vikash_Resume.pdf",
+        file_name="phani_vikash.pdf",
         mime="application/pdf"
     )
 
